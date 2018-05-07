@@ -669,7 +669,8 @@ This works in CSS too:
 
 ```css
 .Logo {
-  background-image: url(./logo.png);
+  
+  -image: url("./logo.png");
 }
 ```
 
